@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "image":"/assets/images/lebron.jpeg"
+    },
+    {
+        "id": 2,
+        "image":"/assets/images/steph.jpeg"
+    },
+    {
+        "id": 3,
+        "image":"/assets/images/kobe.jpg"
+    },
+    {
+        "id": 4,
+        "image":"/assets/images/kawhi.jpeg"
+    },
+    {
+        "id": 5,
+        "image":"/assets/images/anthonydavis.jpeg"
+    },
+    {
+        "id": 6,
+        "image":"/assets/images/cousins.jpeg"
+    },
+    {
+        "id": 7,
+        "image":"/assets/images/derozan.jpeg"
+    },
+    {
+        "id": 8,
+        "image":"/assets/images/durant.jpeg"
+    }
+]
